@@ -1,0 +1,6 @@
+framework module Pods_HouseIdentifyDemoTests {
+  umbrella header "Pods-HouseIdentifyDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
