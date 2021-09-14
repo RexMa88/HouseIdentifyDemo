@@ -1,0 +1,2 @@
+# HouseIdentifyDemo
+使用Apple的CoreML识别房屋
